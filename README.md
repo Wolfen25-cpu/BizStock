@@ -1,7 +1,7 @@
 # BizStock – Sistema de Gestión de Inventario
 
 **Universidad Interamericana de Puerto Rico – Recinto de Fajardo**  
-COMP5525 - Seminario I | Abel J. Caro Flores
+COMP5525 - Seminario I | Abel Caro 
 
 ---
 
